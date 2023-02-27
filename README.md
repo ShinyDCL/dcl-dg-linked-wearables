@@ -2,6 +2,9 @@
 
 This folder contains all the necessary files to launch a Decentraland scene.
 
+![D&G Disco Drip collection female linked wearables](screenshots/female-wearables.png)
+![D&G Disco Drip collection male linked wearables](screenshots/male-wearables.png)
+
 ## Try it out
 
 **Install the CLI**
